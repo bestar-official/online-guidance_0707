@@ -27,6 +27,11 @@ a {
     position: relative;
 }
 
+.how-to-use {
+    width: 100%;
+    position: relative;
+}
+
 .login {
     position: absolute;
     width: 85%;
